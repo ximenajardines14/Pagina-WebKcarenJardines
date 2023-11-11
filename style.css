@@ -3,16 +3,16 @@
 */
 
 body {
-    background-color: #2596be;
+    background-color: #f1d4b2;
     /*COLOR DE TEXTO */
-    color:blue;
+    color:rgb(15, 15, 15);
 
     /*CAMBIAR FUENTE DE TEXTO */
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1{
-    color: rgb(78, 42, 112);
+    color: rgb(224, 33, 33);
 }
 
 h3{
@@ -20,7 +20,7 @@ h3{
 }
 
 a{
-    color: aquamarine;
+    color: rgb(89, 48, 184);
 }
 
 img{/*width: ancho del objeto
