@@ -1,0 +1,33 @@
+/*
+
+*/
+
+body {
+    background-color: #2596be;
+    /*COLOR DE TEXTO */
+    color:blue;
+
+    /*CAMBIAR FUENTE DE TEXTO */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: rgb(78, 42, 112);
+}
+
+h3{
+    color: #af185e;
+}
+
+a{
+    color: aquamarine;
+}
+
+img{/*width: ancho del objeto
+    height:alto del objeto  */
+    width: 200px;
+}
+
+.abc{
+    width: 100px
+}
